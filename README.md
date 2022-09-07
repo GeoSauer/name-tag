@@ -4,7 +4,17 @@
 
 If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
 
+![wireframe](./wireframe_name_tag.png)
+
 ## Making a plan
+
+1. HTML:
+   input
+   button
+   section: name-tag
+   h1 for hello my name is
+   div: name display
+   div: bottom section
 
 1. **Make a drawing of your app. Simple "wireframes"**
 1. **Look at the drawing and name the HTML elements you'll need to realize your vision**
