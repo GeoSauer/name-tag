@@ -12,7 +12,7 @@ changeButton.addEventListener('click', () => {
     console.log(userName);
     nameDisplay.textContent = userName;
     console.log(nameDisplay);
-    // nameInput.value = '';
+    nameInput.value = '';
 });
 
 // get user input
