@@ -24,6 +24,12 @@ grab input value
 change text of target (name tag)
 clear out input value
 
+### CSS:
+
+create nametag shape using box model
+assign colors
+adjust font (size, color, etc)
+
 1. **Make a drawing of your app. Simple "wireframes"**
 1. **Look at the drawing and name the HTML elements you'll need to realize your vision**
 1. **Look at the drawing and imagine using the app. What _state_ do you need to track?**
