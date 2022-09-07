@@ -6,11 +6,13 @@ const nameDisplay = document.getElementById('name-display');
 // let state
 
 // set event listeners
-changeButton.addEventListener('click', ()) => {
-        const name = nameInput.value;
-        console.log(nameInput);
-        console.log(clicking);
-    };
+changeButton.addEventListener('click', () => {
+    console.log('clicking');
+    const userName = nameInput.value;
+    console.log(userName);
+    // nameDisplay.textContent = userName;
+    // nameInput.value = '';
+});
 
 // get user input
 // use user input to update state
